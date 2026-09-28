@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./banner.png" width="100%" />
+</p>
+
 I'm Kulsoom 👋 | A Female ML Developer from Karachi Pakistan 🇵🇰
 
 🚀 I build beautiful, lightweight & real-time ML web apps
