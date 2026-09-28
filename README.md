@@ -1,4 +1,4 @@
-I'm Kulsoom 👋 | ML Developer from Pakistan 🇵🇰
+I'm Kulsoom 👋 | ML Developer from Karachi Pakistan 🇵🇰
 🚀 I build beautiful, lightweight & real-time ML web apps
 *My Stack:*
 Python | NumPy | Pandas | Scikit-Learn | Flask | FastAPI | WebSockets
