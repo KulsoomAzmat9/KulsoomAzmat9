@@ -12,9 +12,9 @@ Python | NumPy | Pandas | Scikit-Learn | Flask | FastAPI | WebSockets
 What I Do:
 
 Supervised Algorithms: Spam Classification (NB, LR, SVM), Fake News Detection, House Price Prediction, Smart Reply
-Unsupervised Algorithms: Anomaly Detection with Isolation Forest
-Real-Time APIs: Production-ready APIs with FastAPI + WebSockets
-Shopify business report + Looker Studio Dashboard: Total Orders, Sales by Country.                                                     
+Unsupervised Algorithms: Anomaly Detection with Isolation Forest.
+Real-Time APIs: Production-ready APIs with FastAPI + WebSockets.
+Shopify business report + Looker Studio Dashboard.                                                   
 
 Featured Projects:
 anomaly-detection-api-isolation-forest-websockets - Real-time anomaly detection
