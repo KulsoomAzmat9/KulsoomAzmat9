@@ -17,10 +17,9 @@ Python | NumPy | Pandas | Scikit-Learn | Flask | FastAPI | WebSockets
 *Featured Projects:*
 🔹 anomaly-detection-api-isolation-forest-websockets - Real-time anomaly detection
 🔹 anomaly-detector-api-fastapi - FastAPI production API
-🔹 house-price-prediction - Premium ML web app with 8 inputs
-🔹 spam-classifier - NB vs LR vs SVM comparison
 
-📂 8+ End-to-End Repositories
+
+📂 11+ End-to-End Repositories
 💻 Female in Tech | Open to Freelance & Collaborations
 
 📧 Let's build your AI product together!
