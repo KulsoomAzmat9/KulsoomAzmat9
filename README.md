@@ -14,7 +14,7 @@ What I Do:
 Supervised Algorithms: Spam Classification (NB, LR, SVM), Fake News Detection, House Price Prediction, Smart Reply
 Unsupervised Algorithms: Anomaly Detection with Isolation Forest.
 Real-Time APIs: Production-ready APIs with FastAPI + WebSockets.
-Shopify business report + Looker Studio Dashboard.                                                   
+Shopify Store Sales Analysis, Shopify business report + Looker Studio Dashboard.                                                   
 
 Featured Projects:
 anomaly-detection-api-isolation-forest-websockets - Real-time anomaly detection
