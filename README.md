@@ -17,11 +17,6 @@ Real-Time APIs: Production-ready APIs with FastAPI + WebSockets.
 Amazon E-Commerce Data Cleaning: Cleaned messy Amazon orders data and converted it into analysis-ready format.
 Shopify Store Sales Analysis, Shopify business report + Looker Studio Dashboard.                                                   
 
-Featured Projects:
-anomaly-detection-api-isolation-forest-websockets - Real-time anomaly detection
-anomaly-detector-api-fastapi - FastAPI production API
-
-
 📂 11+ End-to-End Repositories
 💻 Female in Tech | Open to Freelance & Collaborations
 
